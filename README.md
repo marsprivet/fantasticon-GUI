@@ -1,6 +1,9 @@
 # Fantasticon GUI Converter
 
-**Fantasticon GUI Converter** — минимальное Electron‑приложение с графическим интерфейсом для конвертации SVG‑иконок в шрифты (TTF, WOFF2, WOFF, EOT, SVG) и сопутствующие ассеты (CSS, JSON, HTML, TS) при помощи [Fantasticon](https://github.com/tomhodgins/fantasticon).
+**Fantasticon GUI Converter** — минимальное Electron‑приложение с графическим интерфейсом для конвертации SVG‑иконок в шрифты (TTF, WOFF2, WOFF, EOT, SVG) и сопутствующие ассеты (CSS, JSON, HTML, TS) при помощи [Fantasticon](https://github.com/tancredi/fantasticon).
+
+<video src='https://youtu.be/FWn5W6N5w3o'>
+
 
 ---
 
