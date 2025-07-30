@@ -32,6 +32,7 @@
    npm run start
 
 ## Структура проекта
+```bash
 fantasticon-gui/
 ├── package.json           # скрипты и зависимости (electron, fantasticon)
 ├── fantasticonrc.json     # глобальные настройки Fantasticon
