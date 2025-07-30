@@ -1,0 +1,12 @@
+{
+  "name": "icons" ,
+  "prefix": "icon" ,
+  "fontTypes": [
+    "ttf" ,
+    "woff2",
+    "woff" ,
+    "eot" ,
+    "svg" 
+  ],
+  "assetTypes": ["css", "json", "html", "ts"]
+}
